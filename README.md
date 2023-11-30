@@ -4,13 +4,13 @@
 Clone the project
 
 ```bash
-  https://github.com/Yashas-DR/QuickCraft_frontend.git
+  https://github.com/Yashas-DR/QuickCraft_backend.git
 ```
 
 Go to the project directory
 
 ```bash
-  cd QuickCraft_frontend
+  cd QuickCraft_backend
 ```
 
 Start the server
